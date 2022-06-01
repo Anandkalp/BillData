@@ -17,4 +17,3 @@ class bill3
 		System.out.println("Final Bill: "+finalbill);
     }
 }
-	
