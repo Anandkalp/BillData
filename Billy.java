@@ -1,4 +1,3 @@
-
 class bill3
 {
     public static void main(String args[])
@@ -17,4 +16,3 @@ class bill3
 		System.out.println("Final Bill: "+finalbill);
     }
 }
-	
